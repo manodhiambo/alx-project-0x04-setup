@@ -27,3 +27,4 @@ const CounterApp: React.FC = () => {
 };
 
 export default CounterApp;
+
